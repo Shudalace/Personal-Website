@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
+import project5 from "../assets/projects/project-5.jpg";
 
 export const HERO_CONTENT = `Motivated and detail-oriented, seeking to apply my skills in HTML, CSS, C, and Java in a collaborative and fast-paced environment. With strong time management, teamwork abilities, and a commitment to both individual and group work. I am eager to contribute to application, web and mobile development, focusing on creating efficient and user-friendly software solutions. `;
 /* INI ABOUT ME NTAR GANTI */
@@ -87,6 +88,13 @@ export const PROJECTS = [
     description: "The Library Management Project was our 1st semester final project for  the Algorithm and Design subject. Some of its features include singing up, logging in, viewing books, borrowing books, returning books, view borrowing history, adding books, deleting books, log out.",
     technologies: ["C"],
     url: "https://github.com/Shudalace/Library-Project",  
+  },
+  {
+    title: "CleanAIR: Revolutionizing Air Quality Monitoring Using Cutting-Edge IoT Integration",
+    image: project5,
+    description: "CleanAIR is our 4th-semester final project for the Embedded System and Research Methodology subjects. We created this project to better understand indoor air quality and its impact on indoor pollutants. This project integrates various sensors and utilizes an ESP32 microcontroller.",
+    technologies: ["Arduino", "ESP32"],
+    url: "https://www.canva.com/design/DAF9_S8VyqY/kEBb5hrN6WAHPgAS_ZeHAQ/edit?utm_content=DAF9_S8VyqY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",  
   },
 ];
 
